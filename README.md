@@ -69,5 +69,8 @@ A Cicatriz (Dificuldade): Foi notado que a qualidade das respostas geradas pelo 
 📌 Prompt de Revisão Geral: “Resuma os principais fatores tecnológicos, comportamentais e econômicos que impulsionam o crescimento da indústria fitness.”
 
 
+
+
 Desenvolvido por: Bianca souza
+
 Bootcamp: Accenture - Python Data Analytics | DIO

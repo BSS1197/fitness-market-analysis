@@ -1,15 +1,15 @@
-# Miniguia de Estudos: fitness-market-Analysis
+# Miniguia de Estudos: fitness market-Analysis
 
-Projeto desenvolvido como parte de um desafio no bootcamp Accenture - Python Data Analytics da DIO com foco em explorar o uso da IA (NotebookLM) na organização de conhecimento.
+Projeto desenvolvido como parte do primeorpo desafio do bootcamp Accenture - Python Data Analytics da DIO com foco em explorar o uso da IA (NotebookLM) na organização de conhecimento.
 
-Material completo:
+Acesso ao material completo:
 
 👉 [NotebookLM] (https://notebooklm.google.com/notebook/6fa2c69d-da13-4a2b-912f-92e47bfbad26)
 
 
 ## 🎯 Contexto e Objetivos
 
-Como aspirante à área de análise de dados, este projeto tem como objetivo analisar o crescimento da indústria fitness e wellness na era digital, explorando tendências de mercado, comportamento do consumidor e o impacto da tecnologia no setor.
+Como entusiasta de dados em transição de carreira, este projeto tem como objetivo analisar o crescimento da indústria fitness e wellness na era digital, explorando tendências de mercado, comportamento do consumidor e o impacto da tecnologia no setor.
 
 Além da análise de mercado, o projeto também busca desenvolver uma visão analítica por meio da utilização do NotebookLM para organização das informações, conexão entre fontes, identificação de padrões e estruturação de um fluxo de análise orientado a insights.
 
@@ -28,7 +28,7 @@ O Teste inicial: “Quais fatores explicam o crescimento explosivo das academias
 A Cicatriz (Dificuldade): Foi notado que a qualidade das respostas geradas pelo NotebookLM dependia muito da forma como os prompts eram estruturados e das fontes utilizadas na análise. Em alguns momentos, as respostas ficaram muito amplas ou focadas apenas em tendências, o que me fez refinar perguntas e interpretar as informações de maneira mais crítica. Esse processo me ajudou a entender melhor a importância da curadoria de dados, da contextualização das perguntas e do olhar analítico para transformar informações em insights realmente relevantes.
 
 
-📘 Resumos Estruturados do Assunto
+## 📘 Resumos Estruturados do Assunto
 
 📈 Crescimento da Indústria Fitness: A indústria fitness brasileira apresentou um crescimento acelerado nos últimos anos, impulsionado pela digitalização, mudanças no comportamento do consumidor e maior preocupação com saúde e bem-estar. O aumento do número de academias, aplicativos fitness e soluções digitais consolidou o Brasil como um dos maiores mercados fitness do mundo.
 
@@ -54,7 +54,7 @@ A Cicatriz (Dificuldade): Foi notado que a qualidade das respostas geradas pelo 
 | Tendências de Mercado       | Movimentos e padrões que indicam mudanças ou crescimento em determinado setor.      |
 
 
-🤖 Prompts Reutilizáveis
+## 🤖 Prompts Reutilizáveis
 
 📌 Análise de Mercado: “Quais fatores explicam o crescimento do mercado fitness na era digital?”
 

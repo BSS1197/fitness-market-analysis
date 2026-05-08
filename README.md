@@ -2,6 +2,11 @@
 
 Projeto desenvolvido como parte de um desafio no bootcamp Accenture - Python Data Analytics da DIO com foco em explorar o uso da IA (NotebookLM) na organização de conhecimento.
 
+Material completo:
+
+👉 [NotebookLM] (https://notebooklm.google.com/notebook/6fa2c69d-da13-4a2b-912f-92e47bfbad26)
+
+
 ## 🎯 Contexto e Objetivos
 
 Como aspirante à área de análise de dados, este projeto tem como objetivo analisar o crescimento da indústria fitness e wellness na era digital, explorando tendências de mercado, comportamento do consumidor e o impacto da tecnologia no setor.
